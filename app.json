@@ -1,0 +1,11 @@
+{
+    "name": "crypto_node",
+    "description": "sample webhook",
+    "repository": "",
+    "keywords": [
+        "crypto",
+        "dialogflow",
+        "chatbot",
+        "webhook"
+    ]
+}
